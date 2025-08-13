@@ -28,8 +28,13 @@ cd bin
 You can see the Metal GPUs are actually used by llama-cli process.<br>
 <img src="https://github.com/developer-onizuka/llamacpp-macOS/blob/main/gpt-oss-20b.png" width="800">
 
-The following is the result of the command above.
 
+
+<br><br><br><br><br>
+
+## The following is the result of the command above. But please note it is not confirmed by myself whether it is true or not.
+
+<br><br><br><br><br>
 
 -----
 

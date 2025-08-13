@@ -32,7 +32,7 @@ You can see the Metal GPUs are actually used by llama-cli process.<br>
 
 <br><br><br><br><br>
 
-## The following is the result of the command above. But please note it is not confirmed by myself whether it is true or not.
+# The following is the result of the command above. But please note it is not confirmed by myself whether it is true or not.
 
 <br><br><br><br><br>
 

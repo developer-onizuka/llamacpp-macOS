@@ -37,14 +37,6 @@ You can see the Metal GPUs are actually used by llama-cli process.<br><br>
 <br><br><br><br><br>
 
 
-> **TL;DR**  
-> ```bash
-> # build (C++17 or newer)
-> g++ -O3 -march=native -std=c++17 -o llama llama.cpp
-> # run
-> ./llama -m models/llama-7b.bin -p "Hello world" -n 20
-> ```
-
 ---
 
 ## Table of Contents

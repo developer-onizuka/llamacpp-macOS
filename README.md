@@ -25,7 +25,7 @@ cd bin
 ./bin/llama-cli -m ../../Docker/models/gpt-oss-20b-Q4_K_M.gguf -p "Please create readme.md file which explains how to use llama.cpp." -ngl 9999
 ```
 
-You can see the Metal GPUs are actually used by llama-cli process.<br>
+You can see the Metal GPUs are actually used by llama-cli process.<br><br>
 <img src="https://github.com/developer-onizuka/llamacpp-macOS/blob/main/gpt-oss-20b.png" width="800">
 
 
@@ -36,9 +36,6 @@ You can see the Metal GPUs are actually used by llama-cli process.<br>
 
 <br><br><br><br><br>
 
-
-**llama.cpp** is a lightweight, header‑only implementation of the LLaMA (Large Language Model) architecture in pure C++.  
-It is designed to be fast, portable and easy to embed into any C++ project – no external libraries or build tools required.
 
 > **TL;DR**  
 > ```bash

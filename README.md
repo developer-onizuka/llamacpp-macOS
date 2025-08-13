@@ -36,7 +36,6 @@ You can see the Metal GPUs are actually used by llama-cli process.<br>
 
 <br><br><br><br><br>
 
------
 
 **llama.cpp** is a lightweight, header‑only implementation of the LLaMA (Large Language Model) architecture in pure C++.  
 It is designed to be fast, portable and easy to embed into any C++ project – no external libraries or build tools required.
